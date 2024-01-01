@@ -2,7 +2,7 @@ Casino Siteleri Yeni Giriş Adresleri
 ===================================
 
 .. meta::
-   :google-site-verification: qeH1MI7YkUon3zakiTE71KG0XD1moSh0RjzA2wukuT8
+   :google-site-verification: adzap5HaJ8RWqXZbqkB13_lfVNIkhoP3zGq_5wX-aDU
 
 .. image:: images/kralbet-giris.jpg
    :width: 600
